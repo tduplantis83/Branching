@@ -6,7 +6,8 @@
 * Push to your branch
 * Pull from master to your local branch
 * Fix merge conflicts
-* Push to your branch
+* Push to master
+* On GITHUB - create a pull request from your branch to master
 
 
 ### Basic 'GIT' commands
