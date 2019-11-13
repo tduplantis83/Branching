@@ -1,5 +1,14 @@
 ## GIT Branching Practice
 
+## Basic Idea
+* Create your own branch & work within it
+* Make commits along the way
+* Push to your branch
+* Pull from master to your local branch
+* Fix merge conflicts
+* Push to your branch
+
+
 ### Basic 'GIT' commands
 
 * 'git init' - create local repo
